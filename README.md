@@ -46,11 +46,12 @@ Here are some ideas to get you started:
 <br>  
 
 ## 💯 Stats
+
 <br>
 <p>
-<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudujohn&show_icons=true&locale=en&layout=compact" alt="daudujohn" /></p>
+<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudujohn&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="daudujohn" /></p>
 <br>
-<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudujohn&show_icons=true&locale=en" alt="daudujohn" /></p>
+<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudujohn&theme=dark&background=000000&show_icons=true&locale=en" alt="daudujohn" /></p>
 <br>
-<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daudujohn&" alt="daudujohn" /></p>
+<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daudujohn&theme=dark&background=000000" alt="daudujohn" /></p>
 </p>
