@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">Hi 👋, I'm John!</h1>
 <h3 align="center">A third-year computer science major with a passion for backend web development and data engineering</h3>
 
 ## 🌱 I’m currently learning 
