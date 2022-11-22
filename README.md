@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A third-year computer science major with a passion for backend web development and data engineering</h3>
 
 ## 🌱 I’m currently learning 
----
+
 - NodeJs
 - HDL
 - Data Engineering
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🗣️ Connect with me
----
+
 <br>
 <p align="left">
 &emsp;&emsp;&emsp;<a href="https://twitter.com/the_weakkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_weakkk" height="30" width="40" /></a>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ## ⚒️ Languages and Tools
----
+
 <br>
 <p align="left"> 
 &emsp;&emsp;&emsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django width="40" height="40"/> </a> &emsp; &emsp;
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 ## 💯 Stats
 
----
 <br>
 <p>
 <p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudujohn&show_icons=true&locale=en&layout=compact" alt="daudujohn" /></p>
