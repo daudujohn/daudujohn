@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 - NodeJs
 - HDL
 - Data Engineering
-
 <br>
 
 ## 🗣️ Connect with me
-
 <br>
 <p align="left">
 &emsp;&emsp;&emsp;<a href="https://twitter.com/the_weakkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_weakkk" height="30" width="40" /></a>
@@ -34,9 +32,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-
 ## ⚒️ Languages and Tools
-
 <br>
 <p align="left"> 
 &emsp;&emsp;&emsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django width="40" height="40"/> </a> &emsp; &emsp;
@@ -47,10 +43,9 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>  
-  
+<br>  
 
 ## 💯 Stats
-
 <br>
 <p>
 <p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudujohn&show_icons=true&locale=en&layout=compact" alt="daudujohn" /></p>
