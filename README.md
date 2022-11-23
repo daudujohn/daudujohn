@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="left"> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudujohn&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="daudujohn" />
 <br>
-&emsp;&emsp;&emsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django width="40" height="40"/> </a> 
+&emsp;&emsp;&emsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django width="40" height="40"/> </a>&emsp; &emsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&emsp; &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&emsp;&emsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><br><br>
